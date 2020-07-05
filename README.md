@@ -23,6 +23,9 @@ Typography driven, feature-rich blogging theme with minimal aesthetics. Includes
 
 Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de)
 
+Deploy to Gatsby Cloud
+[![button](http://www.presentationpro.com/images/product/medium/slide/PPP_CGENE_LT3_Presentation-PowerPoint-Slide-Graphic_Push_Button_Up.jpg)](https://mattermost.com)
+
 ## ✨ Features
 
 - MDX
